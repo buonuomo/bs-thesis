@@ -1,6 +1,6 @@
-# HIT Me with Your Best STLC (my Bachelor's thesis)
+# HIT Me with Your Best STLC
 
-The pdf of my thesis can be found in the `paper` directory
+This is my Bachelor's thesis. The pdf of the thesis can be found in the `paper` directory
 
 In `src/isomorphism` is the fully proven isomorphism between normal forms and
 terms modulo βη-equivalence, along with the source code from "Hereditary
