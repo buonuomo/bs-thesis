@@ -1,0 +1,3 @@
+name: thesis
+depend: cubical standard-library
+include: .
